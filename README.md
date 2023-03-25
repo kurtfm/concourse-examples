@@ -1,3 +1,3 @@
 # examples
 Examples of Concourse workflows
-v1
+v2
