@@ -1,4 +1,4 @@
 # examples
 Examples of Concourse workflows
 
-v8
+v7
